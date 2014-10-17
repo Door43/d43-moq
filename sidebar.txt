@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[moq:home|Door43 (moq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-moq|d43-moq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-moq/archive/master.zip|d43-moq.zip]]
+
+**Recent Changes**
+{{changes>ns = moq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/moq|Ethnologue data]]
+
